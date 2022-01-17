@@ -1,4 +1,4 @@
 # HumanResources.java
-quan ly nhan vien
+Quản lý nhân viên
 
 bài tập thực hành Assignment tại môn Object-Oriented Programming – Java
